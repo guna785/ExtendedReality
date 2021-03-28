@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8481973184",
+    "project_id": "object-detection-161c2",
+    "storage_bucket": "object-detection-161c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8481973184:android:a0cfde02c428222836de25",
+        "android_client_info": {
+          "package_name": "com.example.extendedreality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8481973184-om3l9k9gijhp68e7p9p72ugmsa1491ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNR60WKMkTICj0ZxZWo5tTmWt9WxmMNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8481973184-om3l9k9gijhp68e7p9p72ugmsa1491ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
